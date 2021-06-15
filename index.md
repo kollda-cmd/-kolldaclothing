@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /HOME
+title: KOLLDACLOTHING
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
+NEW STYLE FOR NEW LIFE.
 
 
