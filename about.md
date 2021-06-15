@@ -2,19 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
-
-## Themes
-This theme comes in two color variations. The default is set to the `light` theme. To change the theme color, add `theme_color:` to your `config.yml` file with the color you wish to use. Example: `theme_color: dark`.
+MAIS QUE UMA MARCA MAIS QUE UM ESTILO UMA NOVA VIDA!
 
 <!-- | Config setting | Thumbnail |
 | --- | --- |
